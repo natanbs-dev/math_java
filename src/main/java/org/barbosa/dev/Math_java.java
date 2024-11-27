@@ -4,6 +4,10 @@ package org.barbosa.dev;
 import java.util.Scanner;
 
 public class Math_java {
+    //    relatório das notas dos alunos:
+//        tendo feita a conta em relação as duas primeiras notas
+//            e a média, calcula-se a média do aluno seguindo os critérios
+//            de avaliação
     public static  void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Quantos alunos deseja processar? ");
